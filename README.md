@@ -284,4 +284,4 @@ If you have a tool recommendation or a checklist item from real production exper
 
 ---
 
-*Built and maintained by [Hoomaan Sheikholeslami](https://hoomaan.dev) — Frontend Engineering Lead with 10+ years of WordPress performance work across US, UK, and European clients.*
+*Built and maintained by [Hamidreza (Hoomaan) Sheikholeslami](https://hoomaan.dev) — Frontend Engineering Lead with 10+ years of WordPress performance work across US, UK, and European clients.*
